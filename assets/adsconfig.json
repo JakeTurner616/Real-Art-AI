@@ -1,0 +1,6 @@
+{
+    "androidAdUnitIdRelease": "ca-app-pub-xxxx",
+    "iosAdUnitIdRelease": "ca-app-pub-xxxx",
+    "androidAdUnitIdDebug": "ca-app-pub-xxxx",
+    "iosAdUnitIdDebug": "ca-app-pub-xxxx"
+  }
