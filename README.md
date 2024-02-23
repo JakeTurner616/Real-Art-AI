@@ -14,7 +14,7 @@ Real Art AI allows users to create personalized digital art using advanced AI te
 
 
 ## Backend
-Automatic1111 web UI: https://github.com/AUTOMATIC1111/stable-diffusion-webui (may need load balanced / distributed / networked)
+Automatic1111 web UI: https://github.com/JakeTurner616/stable-diffusion-webui-stable (may need load balanced / distributed / networked)
 
 Load balance: https://github.com/JakeTurner616/sd-loadbalance
 
