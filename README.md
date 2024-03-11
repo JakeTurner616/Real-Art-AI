@@ -1,19 +1,14 @@
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1;">
-  </div>
-  <div>
-    <a href="https://github.com/JakeTurner616/Real-Art-AI/">
-      <img align="right" width="200" height="200" src="https://github.com/JakeTurner616/Real-Art-AI/blob/main/assets/icons/brain.png?raw=true">
-    </a>
-  </div>
-</div>
-
 # Real Art AI
 
-Real Art AI allows users to create personalized digital art using advanced AI techniques. It supports both iOS and Android platforms.
+<img align="right" width="120" height="120" src="https://github.com/JakeTurner616/Real-Art-AI/blob/main/assets/icons/brain.png?raw=true">
+
+Real Art AI allows users to create on demand personalized digital art using advanced AI techniques with near full parameter access for free. It supports both iOS and Android platforms. Supports in/out painting, upscale, img2img, txt2img, and prompt generation.
 
 
 ## Backend
+
+Project Landingpage (Under active construction): https://appdev.serverboi.org [land page source code repo](https://github.com/JakeTurner616/mobile-app-website)
+
 Automatic1111 web UI: https://github.com/JakeTurner616/stable-diffusion-webui-stable (may need load balanced / distributed / networked)
 
 Load balance: https://github.com/JakeTurner616/sd-loadbalance
@@ -21,6 +16,8 @@ Load balance: https://github.com/JakeTurner616/sd-loadbalance
 Networking interface code: https://github.com/JakeTurner616/Real-Art-AI-Backend
 
 Prompt autocomplete API: https://github.com/JakeTurner616/prompt-generator-api
+
+NSFW filter: https://github.com/JakeTurner616/stable-diffusion-webui-nsfw-filter
 
 
 ## License
