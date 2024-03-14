@@ -7,7 +7,7 @@ Real Art AI allows users to create on demand personalized digital art using adva
 
 ## Backend
 
-Project Landingpage (Under active construction): https://appdev.serverboi.org [land page source code repo](https://github.com/JakeTurner616/mobile-app-website)
+Project Landingpage (Under active construction): [https://app.serverboi.org](https://app.serverboi.org), [website repo](https://github.com/JakeTurner616/Real-Art-AI-website)
 
 Automatic1111 web UI: https://github.com/JakeTurner616/stable-diffusion-webui-stable (may need load balanced / distributed / networked)
 
